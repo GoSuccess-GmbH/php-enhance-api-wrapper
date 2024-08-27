@@ -1,0 +1,18 @@
+{
+    "name": "gosuccess/php-enhance-api-wrapper",
+    "description": "PHP Enhance API Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GoSuccess\\Enhance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GoSuccess",
+            "homepage": "https://gosuccess.io"
+        }
+    ],
+    "require": {}
+}
